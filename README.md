@@ -11,7 +11,23 @@ This is a todo app, that was created with react using react hooks
 * [Contact](#contact)
 
 ## Introduction
-This is a project I did through YouTube to improve on my react skills . The aim of this project is create a to do list app using React. 
+The aim of this project is create a to do list app using React. 
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
 ## Screenshot
 ![Sample image](https://github.com/wemiibidun/quote_api/blob/main/public/quote_api.png)
