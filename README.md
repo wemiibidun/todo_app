@@ -13,11 +13,11 @@ This is a todo app, that was created with react using react hooks
 ## Introduction
 The aim of this project is create a to do list app using React. 
 
-# Getting Started with Create React App
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
