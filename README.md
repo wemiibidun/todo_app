@@ -9,6 +9,7 @@ This is a todo app, that was created with react using react hooks
 * [Screenshot](#screenshot)
 * [Technologies](#technologies-language-library-and-framework)
 * [Features](#features)
+* [Link to Deployed Project](#link-to-deployed-project)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
@@ -45,6 +46,11 @@ The GUI of this project allows users to:
 * Add a task to a to do list
 * Edit the task on the to do list
 * Delete the task on the to do list
+
+
+## Link to Published Portfolio
+
+[Published Todo App Webpage](https://personal-portfolio-react-e9ojg853j-wemiibidun.vercel.app/)
 
 ## Status
 Project is: _Complete_
