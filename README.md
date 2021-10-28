@@ -1,3 +1,6 @@
+![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/todo_app)
+![GitLab Languages](https://img.shields.io/github/languages/count/wemiibidun/todo_app)
+
 # Todo App
 This is a todo app, that was created with react using react hooks
 
